@@ -17,8 +17,6 @@ Most AI trading systems act as black boxes — they provide BUY/SELL signals wit
 
 ## ⚙️ How It Works
 
-The system is built as a pipeline of specialized AI agents:
-
 ### 🤖 Analyst Agent
 - Analyzes market data using:
   - RSI (Relative Strength Index)
